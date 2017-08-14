@@ -1,4 +1,5 @@
-#include<studio.h>
+#include<stdio.h>
+#include<math.h>
 Void main()
 {
  int no,s=0,c=0,temp,r=0;
